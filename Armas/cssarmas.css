@@ -1,0 +1,29 @@
+body {
+    background-image: url("Wallpaper1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+h1 {
+    color: rgb(77, 135, 184);
+    border-bottom: 2px rgb(65, 64, 64) solid;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+div.h2 {
+    border-top: 10px double #5f5858b9;
+    border-bottom: 10px double #5f5858b9;
+    text-align: center;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    margin: 50px 350px 50px 350px;
+}
+h2 {
+    color: rgb(151, 143, 73);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

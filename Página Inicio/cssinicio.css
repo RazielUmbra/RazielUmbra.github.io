@@ -1,0 +1,66 @@
+body {
+    background-image: url("MonsterHunterTriLogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+div.h1 {
+    outline-width: 19px;
+    outline-style: double;
+    outline-color: #1C6EA4;
+    outline-offset: 5px;
+}
+div.header1{
+    padding: 15%;
+}
+div.container {
+    margin-top: 100px;
+}
+.image{
+    width: 50px;
+}
+h1 { 
+    text-align: center;
+    color: aliceblue;
+    flex-direction: column;
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+    max-width: 100%;
+}
+img {
+    width: 100px;
+    
+}
+.special {
+    color: rgb(77, 135, 184);
+    border-bottom: 5px rgb(16, 16, 165) solid;
+    display: inline-block;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-top: 5px rgb(16, 16, 165) solid;
+}
+a {
+    display: inline;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.gif1{
+    width: 450px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+.gif2 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+.gif-container {
+    display: flex;
+    justify-content: center;
+}

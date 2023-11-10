@@ -1,0 +1,42 @@
+body {
+    background-image: url("WorldWallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+div.myDiv {
+    padding: 5%;
+}
+div.myHeader {
+    border: 10px double rgb(29, 11, 128);
+    border-radius: 10px;
+    text-align: center;
+    background: rgba(128, 128, 128, 0.63);
+}
+h1.h1text{
+    text-align: center;
+    margin: 40px;
+    flex-direction: column;
+    color:rgb(253, 253, 253);
+    text-shadow: 3px 3px 3px black;
+}
+h2 {
+    flex-direction: column;
+    color:rgb(253, 253, 253);
+    text-shadow: 3px 3px 3px black;
+}
+img.logos {
+    width: 300px;
+}
+div.container {
+    padding: 10%;
+}
+div.row {
+    border: 10px double rgb(29, 11, 128);
+    border-radius: 10px;
+    text-align: center;
+    background: rgba(128, 128, 128, 0.63);
+}

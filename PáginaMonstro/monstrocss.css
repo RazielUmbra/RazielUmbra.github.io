@@ -1,0 +1,42 @@
+body {
+    background-image: url("rathalos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+.alert {
+    text-align: center;
+}
+h1 {
+    color: red;
+    text-transform: uppercase;
+    text-shadow: 3px 3px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.gif1 {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+.gif2 {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    display: block;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(255, 255, 255)
+
+}
+h3 {
+    color: #f8f012;
+    text-transform: uppercase;
+    text-shadow: 3px 3px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

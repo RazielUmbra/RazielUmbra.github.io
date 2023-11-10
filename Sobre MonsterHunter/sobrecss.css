@@ -1,0 +1,68 @@
+body {
+    background-image: url("502259.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+div.header1 {
+    padding: 5%;
+}
+div.myDiv{
+    border: 5px outset red;
+    text-align: center;
+    background: rgba(128, 128, 128, 0.63);
+}
+div.pdiv {
+    background-color: rgba(97, 91, 91, 0.473);
+    border: 5px double;
+    border-color: rgb(15, 23, 141);
+    border-radius: 20px;
+    border-width: 10px;
+    margin: 45px;
+}
+h1{
+    color: rgb(51, 255, 0);
+    text-align: center;
+ 
+}
+img.mhriselogo{
+    padding-left: 380px;
+    width: 70%;
+}
+p{
+    text-align: center;
+    line-height: 1.5;
+    color: rgb(115, 173, 76);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.top-bar {
+    background-color: #454747c7; 
+    color: #349b3098; 
+    padding: 10px;
+    border-spacing: 10px;
+    text-align: end;
+}
+
+.top-bar a {
+    color: #43b190b0;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.top-bar a:hover {
+    text-decoration: underline;
+}
+div.weapons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.weapons img {
+    width: 500px;
+    padding: 15px;
+}
+
